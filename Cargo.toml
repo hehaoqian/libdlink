@@ -3,6 +3,9 @@ name = "libdlink"
 version = "0.0.1"
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+authors = ["hehaoqian <39371646+hehaoqian@users.noreply.github.com>"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/hehaoqian/libdlink/"
+keywords = ["dlopen", "dylib", "shared"]
 
 [dependencies]

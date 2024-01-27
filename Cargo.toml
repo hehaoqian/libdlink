@@ -1,12 +1,3 @@
-[package]
-name = "libdlink"
-version = "0.0.1"
-edition = "2021"
+[workspace]
 
-authors = ["hehaoqian <39371646+hehaoqian@users.noreply.github.com>"]
-description = "Rust implementation of dynamic linker"
-license = "MIT OR Apache-2.0"
-repository = "https://github.com/hehaoqian/libdlink/"
-keywords = ["dlopen", "dylib", "shared"]
-
-[dependencies]
+members = ["libdlink"]

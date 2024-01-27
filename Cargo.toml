@@ -1,3 +1,3 @@
 [workspace]
 
-members = ["libdlink"]
+members = ["libdlink", "libdlink_test"]
